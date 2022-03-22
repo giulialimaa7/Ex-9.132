@@ -1,0 +1,14 @@
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\bin\Debug\netcoreapp3.1\Ex Proposto 132.exe
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\bin\Debug\netcoreapp3.1\Ex Proposto 132.deps.json
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\bin\Debug\netcoreapp3.1\Ex Proposto 132.runtimeconfig.json
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\bin\Debug\netcoreapp3.1\Ex Proposto 132.runtimeconfig.dev.json
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\bin\Debug\netcoreapp3.1\Ex Proposto 132.dll
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\bin\Debug\netcoreapp3.1\Ex Proposto 132.pdb
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\obj\Debug\netcoreapp3.1\Ex Proposto 132.csproj.AssemblyReference.cache
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\obj\Debug\netcoreapp3.1\Ex Proposto 132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\obj\Debug\netcoreapp3.1\Ex Proposto 132.AssemblyInfoInputs.cache
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\obj\Debug\netcoreapp3.1\Ex Proposto 132.AssemblyInfo.cs
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\obj\Debug\netcoreapp3.1\Ex Proposto 132.csproj.CoreCompileInputs.cache
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\obj\Debug\netcoreapp3.1\Ex Proposto 132.dll
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\obj\Debug\netcoreapp3.1\Ex Proposto 132.pdb
+C:\Users\giulia.lima\source\repos\Ex Proposto 132\Ex Proposto 132\obj\Debug\netcoreapp3.1\Ex Proposto 132.genruntimeconfig.cache
